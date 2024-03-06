@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\User\Desktop\1lab MKC\Decoder\My2To4Decoder.ncd
-OUTFILE=C:\Users\User\Desktop\1lab MKC\Decoder\My2To4Decoder.bit
-FAMILY=Spartan3A and Spartan3AN
-PART=xc3s50a-5tq144
-WORKINGDIR=C:\Users\User\Desktop\1lab MKC\Decoder
-LICENSE=WebPack
-USER_INFO=211628586_0_0_017
